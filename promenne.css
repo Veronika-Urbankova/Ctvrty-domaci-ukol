@@ -1,0 +1,15 @@
+:root {
+  --red-shade: rgb(197, 52, 52);
+  --yellow-shade: rgb(239, 241, 85);
+  --white-shade: white;
+  --card-background: rgb(200, 244, 255);
+  --grey-shade: grey;
+  --pink-shade: rgb(235, 129, 194);
+  --black-shade: black;
+  --second-white: rgb(223, 221, 221);
+  --dark-grey: rgb(88, 87, 87);
+  --darker-grey: rgb(80, 80, 80);
+  --green-shade: green;
+  --light-green: rgb(199, 243, 199);
+  --dark-green: rgba(17, 63, 17, 0.767);
+}
